@@ -1,6 +1,8 @@
-# GitHub for Developers Class
+# Ruby script to tag MP3 files
 
-* In West CHester Ohio
-* July 8th, 2015
-* 
-**Instructor: Josh**
+* Source is iTunes library export 
+* Target is any mp3 file, tagged or not
+* Why: want to have my library in other format
+* This project is just for fun
+
+**Creator: Phil**
